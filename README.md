@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Somyajit Banerjee
+# 👋 Hi, I'm Somyajit 
 
 🚀 **Aspiring AI Engineer | Full Stack Developer | C++ Enthusiast**
 
