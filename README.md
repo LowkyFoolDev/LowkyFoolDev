@@ -30,6 +30,12 @@ I'm passionate about building intelligent software and continuously learning new
 
 > **"Learn • Build • Iterate • Repeat."** 🚀
 
+## ⚡ Neural Lab
+
+<p align="center">
+  <img src="./assets/neural-lab.svg" width="100%" alt="Animated neural network with flowing cyan and violet data, a rotating code core, and a developer terminal. Learn, build, iterate, repeat." />
+</p>
+
 ---
 
 ## 🐍 Contributions in motion
