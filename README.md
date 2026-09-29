@@ -35,9 +35,9 @@ I'm passionate about building intelligent software and continuously learning new
 ## 🐍 Contributions in motion
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LowkyFoolDev/LowkyFoolDev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LowkyFoolDev/LowkyFoolDev/output/github-snake.svg" />
-  <img alt="Animated snake moving through LowkyFoolDev's GitHub contribution graph" src="https://raw.githubusercontent.com/LowkyFoolDev/LowkyFoolDev/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LowkyFoolDev/LowkyFoolDev/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LowkyFoolDev/LowkyFoolDev/refs/heads/output/github-snake.svg" />
+  <img alt="Animated snake moving through LowkyFoolDev's GitHub contribution graph" src="https://raw.githubusercontent.com/LowkyFoolDev/LowkyFoolDev/refs/heads/output/github-snake.svg" width="100%" />
 </picture>
 
 <sub>Refreshed daily with <a href="https://github.com/Platane/snk">Platane/snk</a> · <a href="https://github.com/LowkyFoolDev/LowkyFoolDev/actions/workflows/snake.yml">Animation workflow</a></sub>
