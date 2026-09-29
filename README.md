@@ -1,8 +1,17 @@
+<!-- Custom motion assets are stored in this repository. -->
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="LowkyFoolDev — Somyajit. AI, full stack, C++. Learn, build, iterate, repeat." />
+</p>
+
 # 👋 Hi, I'm Somyajit 
 
 🚀 **Aspiring AI Engineer | Full Stack Developer | C++ Enthusiast**
 
 I'm passionate about building intelligent software and continuously learning new technologies.
+
+<p align="center">
+  <img src="./assets/typing.svg" width="100%" alt="Currently exploring AI, machine learning, deep learning, AI agents, C++, full stack development, and system design." />
+</p>
 
 ## 🧠 Currently Learning
 
@@ -20,3 +29,15 @@ I'm passionate about building intelligent software and continuously learning new
 * 📚 Learn something new every day
 
 > **"Learn • Build • Iterate • Repeat."** 🚀
+
+---
+
+## 🐍 Contributions in motion
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LowkyFoolDev/LowkyFoolDev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LowkyFoolDev/LowkyFoolDev/output/github-snake.svg" />
+  <img alt="Animated snake moving through LowkyFoolDev's GitHub contribution graph" src="https://raw.githubusercontent.com/LowkyFoolDev/LowkyFoolDev/output/github-snake.svg" width="100%" />
+</picture>
+
+<sub>Refreshed daily with <a href="https://github.com/Platane/snk">Platane/snk</a> · <a href="https://github.com/LowkyFoolDev/LowkyFoolDev/actions/workflows/snake.yml">Animation workflow</a></sub>
