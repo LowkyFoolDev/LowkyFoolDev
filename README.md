@@ -1,16 +1,16 @@
 <!-- Custom motion assets are stored in this repository. -->
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="LowkyFoolDev — Somyajit. AI, full stack, C++. Learn, build, iterate, repeat." />
+  <img src="./assets/profile-header.svg" width="100%" alt="LowkyFoolDev — Somyajit. AI, full stack, C++, cybersecurity. Learn, build, iterate, repeat." />
 </p>
 
 # 👋 Hi, I'm Somyajit 
 
-🚀 **Aspiring AI Engineer | Full Stack Developer | C++ Enthusiast**
+🚀 **Aspiring AI Engineer | Full Stack Developer | C++ Enthusiast | Cybersecurity Enthusiast**
 
-I'm passionate about building intelligent software and continuously learning new technologies.
+I'm passionate about building intelligent software, exploring cybersecurity, and continuously learning new technologies. I'm developing hands-on skills in ethical hacking, bug bounty hunting, and Kali Linux.
 
 <p align="center">
-  <img src="./assets/typing.svg" width="100%" alt="Currently exploring AI, machine learning, deep learning, AI agents, C++, full stack development, and system design." />
+  <img src="./assets/typing.svg" width="100%" alt="Currently exploring AI, machine learning, deep learning, AI agents, C++, full stack development, system design, cybersecurity, ethical hacking, bug bounty hunting, and Kali Linux." />
 </p>
 
 ## 🧠 Currently Learning
@@ -21,11 +21,16 @@ I'm passionate about building intelligent software and continuously learning new
 * C++ & Algorithms (DSA) 💻
 * Full Stack Web Development 🌐
 * System Design 🏗️
+* Cybersecurity & Ethical Hacking 🛡️
+* Bug Bounty Hunting & Web Security 🐛
+* Kali Linux & Linux Tools 🐧
 
 ## 🎯 Goals
 
 * Build impactful AI projects 🚀
 * Contribute to Open Source 🌍
+* Build security skills through hands-on labs and CTFs 🚩
+* Find and responsibly report vulnerabilities through bug bounty programs 🔎
 * Learn something new every day 📚
 
 > **"Learn • Build • Iterate • Repeat."** 🚀
