@@ -15,18 +15,18 @@ I'm passionate about building intelligent software and continuously learning new
 
 ## 🧠 Currently Learning
 
-* 🤖 Artificial Intelligence
-* 🧩 Machine Learning & Deep Learning
-* ⚡ AI Agents
-* 💻 C++ & Algorithms (DSA)
-* 🌐 Full Stack Web Development
-* 🏗️ System Design
+* Artificial Intelligence 🤖
+* Machine Learning & Deep Learning 🧩
+* AI Agents ⚡
+* C++ & Algorithms (DSA) 💻
+* Full Stack Web Development 🌐
+* System Design 🏗️
 
 ## 🎯 Goals
 
-* 🚀 Build impactful AI projects
-* 🌍 Contribute to Open Source
-* 📚 Learn something new every day
+* Build impactful AI projects 🚀
+* Contribute to Open Source 🌍
+* Learn something new every day 📚
 
 > **"Learn • Build • Iterate • Repeat."** 🚀
 
